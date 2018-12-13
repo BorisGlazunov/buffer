@@ -13,4 +13,4 @@
 		?>
 	</body>
 </html>
-<? ob_flush (); ?>
+<? ob_end_flush (); ?>
